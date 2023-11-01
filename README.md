@@ -24,6 +24,7 @@ The findings of this case study can be used by the company to improve its portfo
 Deny loans to borrowers who are at high risk of default.
 Reduce the loan amount or increase the interest rate for borrowers who are at elevated risk of default.
 Monitor borrowers who are at high risk of default more closely.
+
 Conclusion
 
 This case study will demonstrate how to use EDA to identify patterns in loan applicant data that can be used to predict whether a client is likely to have difficulty paying their installments. This information can then be used to mitigate the risks of false negatives and false positives, and to improve the company's portfolio and risk assessment processes.
